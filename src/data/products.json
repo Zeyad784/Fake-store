@@ -1,0 +1,242 @@
+  [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 89.99,
+      "image": "https://picsum.photos/id/1/300/200",
+      "description": "High-quality wireless headphones with 30-hour battery life and noise isolation.",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch Pro",
+      "price": 199.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Fitness tracker with heart rate monitor, GPS, and smartphone notifications.",
+      "category": "Wearables"
+    },
+    {
+      "id": 3,
+      "title": "Laptop Backpack",
+      "price": 49.99,
+      "image": "https://picsum.photos/id/20/300/200",
+      "description": "Water-resistant backpack with padded laptop compartment and USB charging port.",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "title": "Wireless Mouse",
+      "price": 29.99,
+      "image": "https://picsum.photos/id/26/300/200",
+      "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "title": "Phone Stand",
+      "price": 19.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Adjustable aluminum stand for smartphones and tablets, foldable for travel.",
+      "category": "Accessories"
+    },
+    {
+      "id": 6,
+      "title": "USB-C Hub",
+      "price": 39.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, and Ethernet port.",
+      "category": "Electronics"
+    },
+    {
+      "id": 7,
+      "title": "Smartphone Gimbal Stabilizer",
+      "price": 89.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "3-axis handheld gimbal for smooth video recording, compatible with most smartphones.",
+      "category": "Electronics"
+    },
+    {
+      "id": 8,
+      "title": "Bluetooth Speaker",
+      "price": 59.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Portable waterproof speaker with 360° sound, 20-hour playtime, and built-in mic.",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "title": "Smart LED Bulb",
+      "price": 24.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "WiFi-enabled color-changing bulb, works with Alexa and Google Assistant.",
+      "category": "Smart Home"
+    },
+    {
+      "id": 10,
+      "title": "Fitness Tracker",
+      "price": 49.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Waterproof fitness band with step counter, sleep monitor, and heart rate sensor.",
+      "category": "Wearables"
+    },
+    {
+      "id": 11,
+      "title": "Gaming Keyboard",
+      "price": 79.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Mechanical gaming keyboard with RGB backlight, customizable keys, and durable design.",
+      "category": "Gaming"
+    },
+    {
+      "id": 12,
+      "title": "Gaming Mouse",
+      "price": 49.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "High-precision gaming mouse with adjustable DPI, programmable buttons, and RGB lighting.",
+      "category": "Gaming"
+    },
+    {
+      "id": 13,
+      "title": "Webcam",
+      "price": 69.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "1080p HD webcam with autofocus, built-in microphone, and privacy cover.",
+      "category": "Electronics"
+    },
+    {
+      "id": 14,
+      "title": "Wireless Charger Pad",
+      "price": 29.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Fast wireless charging pad for Qi-enabled devices, compatible with iPhone and Android.",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "title": "Portable Power Bank",
+      "price": 39.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "20000mAh power bank with dual USB ports, fast charging, and LED display.",
+      "category": "Electronics"
+    },
+    {
+      "id": 16,
+      "title": "Noise Cancelling Earbuds",
+      "price": 79.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "True wireless earbuds with active noise cancellation, touch controls, and charging case.",
+      "category": "Electronics"
+    },
+    {
+      "id": 17,
+      "title": "Smart Plug",
+      "price": 19.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "WiFi smart plug, works with Alexa and Google Assistant, energy monitoring.",
+      "category": "Smart Home"
+    },
+    {
+      "id": 18,
+      "title": "Digital Drawing Tablet",
+      "price": 89.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Graphics tablet with pressure-sensitive pen, ideal for artists and designers.",
+      "category": "Electronics"
+    },
+    {
+      "id": 19,
+      "title": "Wireless Headset",
+      "price": 69.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Wireless gaming headset with noise-canceling mic, surround sound, and long battery life.",
+      "category": "Gaming"
+    },
+    {
+      "id": 20,
+      "title": "Smart Doorbell",
+      "price": 149.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Video doorbell with 1080p HD, two-way audio, motion detection, and night vision.",
+      "category": "Smart Home"
+    },
+    {
+      "id": 21,
+      "title": "USB Desk Fan",
+      "price": 19.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Portable USB desk fan with adjustable tilt, quiet operation, and compact design.",
+      "category": "Accessories"
+    },
+    {
+      "id": 22,
+      "title": "Laptop Cooling Pad",
+      "price": 34.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Ergonomic laptop cooler with dual fans, adjustable height, and USB powered.",
+      "category": "Accessories"
+    },
+    {
+      "id": 23,
+      "title": "Car Phone Mount",
+      "price": 24.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Universal magnetic car mount, strong grip, 360° rotation, for dashboard or vent.",
+      "category": "Accessories"
+    },
+    {
+      "id": 24,
+      "title": "Smart Scale",
+      "price": 39.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Bluetooth smart scale that measures weight, body fat, BMI, and syncs with health apps.",
+      "category": "Smart Home"
+    },
+    {
+      "id": 25,
+      "title": "Wireless Earbuds",
+      "price": 49.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Affordable wireless earbuds with deep bass, IPX7 waterproof, and charging case.",
+      "category": "Electronics"
+    },
+    {
+      "id": 26,
+      "title": "Action Camera",
+      "price": 129.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "4K waterproof action camera with touch screen, image stabilization, and accessories.",
+      "category": "Electronics"
+    },
+    {
+      "id": 27,
+      "title": "Smart Thermostat",
+      "price": 199.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "WiFi programmable thermostat, energy-saving features, voice control compatible.",
+      "category": "Smart Home"
+    },
+    {
+      "id": 28,
+      "title": "LED Desk Lamp",
+      "price": 49.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Adjustable LED desk lamp with touch control, color temperature settings, and USB port.",
+      "category": "Home & Office"
+    },
+    {
+      "id": 29,
+      "title": "VR Headset",
+      "price": 79.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Virtual reality headset compatible with most smartphones, adjustable lenses, immersive experience.",
+      "category": "Electronics"
+    },
+    {
+      "id": 30,
+      "title": "Mini Projector",
+      "price": 149.99,
+      "image": "https://picsum.photos/id/0/300/200",
+      "description": "Portable mini projector with HD support, built-in speakers, and HDMI/USB inputs.",
+      "category": "Electronics"
+    }
+  ]
